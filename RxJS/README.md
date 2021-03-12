@@ -1,4 +1,4 @@
-# RXJS
+# RXJS - Rxjs é uma biblioteca JavaScript que traz o conceito de programação reactiva para a Web
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
